@@ -1,6 +1,7 @@
 # ImperialDance-Dataset
 The official Dataset proposed in "DanceMVP:Self-Supervised Learning for Multi-Task Primitive-Based Dance Performance Assessment via Transformer Text Prompting” [AAAI 2024].
 
+![p](https://github.com/YunZhongNikki/ImperialDance-Dataset/blob/main/new_frameworkk_large.pdf)
 
 ## Table of Content
 * [Dataset Introduction](Dataset-Introduction)
@@ -9,6 +10,7 @@ The official Dataset proposed in "DanceMVP:Self-Supervised Learning for Multi-Ta
 * [Citation](Citation)
 
 ## Dataset Introduction
+![dataset_sample](https://github.com/YunZhongNikki/ImperialDance-Dataset/blob/main/dataset_sample.png)
 We developed **ImperialDance**, which comprises 69,300 seconds of dance motions and music, **5 genres**, **20 pieces of music** and **20 choreographies** with dancers of **3 different expertise levels**.\
 Two advantages of our dataset could be summarized as:\
 (i) It is the first dataset that describes the expertise level differences of dancing, which promotes the research on dacning skill assessment. \
@@ -69,4 +71,16 @@ As for the music, please find the corresponding YoutubeIDs in the previous secti
   pages={xxxx--xxxx},
   year={2024}
 }
+```
+```
+@INPROCEEDINGS{10096824,
+  author={Zhong, Yun and Zhang, Fan and Demiris, Yiannis},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Contrastive Self-Supervised Learning for Automated Multi-Modal Dance Performance Assessment}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Humanities;Self-supervised learning;Signal processing;Robustness;Task analysis;Speech processing;Motion analysis;Human Motion analysis;Action Performance Assessment;Multi-modal Signal Processing},
+  doi={10.1109/ICASSP49357.2023.10096824}}
 ```
