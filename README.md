@@ -21,7 +21,7 @@ For the dance motion, the data is collected by using OptiTrack motion capture de
 
 Each dance sequence is named as format: **dance_level_[expertise_level]\_[genre]\_[choreography]**
 
-For example, a dance sequence that describes the performance of Ballet choreography 0 performed by an Expert is named as dance_level_e_b_ch0.\
+For example, a dance sequence that describes the performance of Ballet choreography 0 performed by an Expert is named as dance_level_e_b_ch0.
 
 There are three different expertise levels in this dataset: Expert, Intermediate and Beginner. The short form of them are: e,i,b respectively.\
 There are five different dance genres: Ballet, K-Pop, Jazz, Hip-Hop, Urban. We use letters: b,k,j,h,u to represent them in the file name respectively.\
@@ -29,33 +29,33 @@ There are maximum five choreography for each dance genre, we use ch0-ch4 to repr
 ### Dance Music
 We provide YoutubeID for each dance music that belongs to each choreography in the dataset. Dancers from all the levels(Expert, Intermediate and Beginner) have danced to the same choreography for 100 repeating times.
 
-Ballet Choreography 0 (b_ch0):
-Ballet Choreography 1 (b_ch1):
-Ballet Choreography 2 (b_ch2):
-Ballet Choreography 3 (b_ch3):
+Ballet Choreography 0 (b_ch0):\
+Ballet Choreography 1 (b_ch1):\
+Ballet Choreography 2 (b_ch2):\
+Ballet Choreography 3 (b_ch3):\
 Ballet Choreography 4 (b_ch4):
 
-K-Pop Choreography 0 (k_ch0):
-K-Pop Choreography 1 (k_ch1):
-K-Pop Choreography 2 (k_ch2):
-K-Pop Choreography 3 (k_ch3):
+K-Pop Choreography 0 (k_ch0):\
+K-Pop Choreography 1 (k_ch1):\
+K-Pop Choreography 2 (k_ch2):\
+K-Pop Choreography 3 (k_ch3):\
 K-Pop Choreography 4 (k_ch4):
 
-Jazz Choreography 0 (j_ch0):
-Jazz Choreography 1 (j_ch1):
-Jazz Choreography 2 (j_ch2):
+Jazz Choreography 0 (j_ch0):\
+Jazz Choreography 1 (j_ch1):\
+Jazz Choreography 2 (j_ch2):\
 Jazz Choreography 3 (j_ch3):
 
-Hip-Hop Choreography 0 (h_ch0):
+Hip-Hop Choreography 0 (h_ch0):\
 Hip-Hop Choreography 1 (h_ch1):
 
-Urban Choreography 0 (u_ch0):
-Urban Choreography 1 (u_ch1):
-Urban Choreography 2 (u_ch2):
+Urban Choreography 0 (u_ch0):\
+Urban Choreography 1 (u_ch1):\
+Urban Choreography 2 (u_ch2):\
 Urban Choreography 3 (u_ch3):
 
 ## Dataset Download
-The dance motion can be downloaded here:
+The dance motion can be downloaded here:LINKS\
 As for the music, please find the corresponding YoutubeIDs in the previous section.
 
 ## Citation
