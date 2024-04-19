@@ -29,27 +29,27 @@ There are three different expertise levels in this dataset: Expert, Intermediate
 There are five different dance genres: Ballet, K-Pop, Jazz, Hip-Hop, Urban. We use letters: b,k,j,h,u to represent them in the file name respectively.\
 There are maximum five choreography for each dance genre, we use ch0-ch4 to represent 5 different choreographies for each genre.
 ### Dance Music
-We provide YoutubeID for each dance music that belongs to each choreography in the dataset. Dancers from all the levels(Expert, Intermediate and Beginner) have danced to the same choreography for 100 repeating times.
+We provide YoutubeID or Bilibili ID for each dance music that belongs to each choreography in the dataset. Dancers from all the levels(Expert, Intermediate and Beginner) have danced to the same choreography for 100 repeating times.
 
-Ballet Choreography 0 (b_ch0):\
-Ballet Choreography 1 (b_ch1):\
-Ballet Choreography 2 (b_ch2):\
-Ballet Choreography 3 (b_ch3):\
-Ballet Choreography 4 (b_ch4):
+K-Pop Choreography 0 (k_ch0): Youtube ID: WhHEQ-W3x5Y, correspoding music/choreography sequence start from 0:40 to 0:55. \
+K-Pop Choreography 1 (k_ch1): Youtube ID: WhHEQ-W3x5Y, correspoding music/choreography sequence start from 0:55 to 1:10.\
+K-Pop Choreography 2 (k_ch2): Youtube ID: T28Av5QZtUc, correspoding music/choreography sequence 1:20 to 1:30. \
+K-Pop Choreography 3 (k_ch3): Youtube ID: T28Av5QZtUc, correspoding music/choreography sequence 1:10 to 1:20.\
+K-Pop Choreography 4 (k_ch4): Youtube ID: DMOaEdw4KJM&t, correspoding music/choreography sequence 0:15 to 0:27.\
 
-K-Pop Choreography 0 (k_ch0):\
-K-Pop Choreography 1 (k_ch1):\
-K-Pop Choreography 2 (k_ch2):\
-K-Pop Choreography 3 (k_ch3):\
-K-Pop Choreography 4 (k_ch4):
+Ballet Choreography 0 (b_ch0): Youtube ID: ZLxIM2OpCdc, correspoding music/choreography sequence starts from 1:50 to 2:05. \
+Ballet Choreography 1 (b_ch1): Bilibili ID: BV1fN411f71F, correspoding music/choreography sequence starts from 1:10 to 1:25.\
+Ballet Choreography 2 (b_ch2): Bilibili ID: BV1fN411f71F, correspoding music/choreography sequence starts from 0:55 to 1:10.\
+Ballet Choreography 3 (b_ch3): Youtube ID: WYF-D6nsHyQ, starts from 1:07 to 1:25.  \
+Ballet Choreography 4 (b_ch4): Youtube ID: WYF-D6nsHyQ, starts from 0:33 to 0:58.  \
 
-Jazz Choreography 0 (j_ch0):\
-Jazz Choreography 1 (j_ch1):\
-Jazz Choreography 2 (j_ch2):\
-Jazz Choreography 3 (j_ch3):
+
+Jazz Choreography 1 (j_ch1): Bilibili ID: BV1XR4y1w7qT, correspoding music/choreography sequence starts from 0:00 to 0:20.\
+Jazz Choreography 2 (j_ch2): Bilibili ID: BV1DD4y1v7ag, correspoding music/choreography sequence starts from 0:10 to 0:28.\
+Jazz Choreography 3 (j_ch3): Bilibili ID: BV1tW4y1t75U, correspoding music/choreography sequence starts from 0:00 to 0:20.\
 
 Hip-Hop Choreography 0 (h_ch0):\
-Hip-Hop Choreography 1 (h_ch1):
+Hip-Hop Choreography 1 (h_ch1): \
 
 Urban Choreography 0 (u_ch0):\
 Urban Choreography 1 (u_ch1):\
@@ -63,12 +63,12 @@ As for the music, please find the corresponding YoutubeIDs in the previous secti
 ## Citation
 ```
 @inproceedings{zhong2024dancemvp,
-  title={Self-Supervised Learning for Multi-Task Primitive-Based Dance Performance Assessment via Transformer Text Prompting},
+  title={DanceMVP: Self-Supervised Learning for Multi-Task Primitive-Based Dance Performance Assessment via Transformer Text Prompting},
   author={Zhong, Yun and Demiris, Yiannis},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={xx},
-  number={x},
-  pages={xxxx--xxxx},
+  volume={38},
+  number={9},
+  pages={10270--10278},
   year={2024}
 }
 ```
