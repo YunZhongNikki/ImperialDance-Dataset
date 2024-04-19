@@ -35,26 +35,26 @@ K-Pop Choreography 0 (k_ch0): Youtube ID: WhHEQ-W3x5Y, correspoding music/choreo
 K-Pop Choreography 1 (k_ch1): Youtube ID: WhHEQ-W3x5Y, correspoding music/choreography sequence start from 0:55 to 1:10.\
 K-Pop Choreography 2 (k_ch2): Youtube ID: T28Av5QZtUc, correspoding music/choreography sequence 1:20 to 1:30. \
 K-Pop Choreography 3 (k_ch3): Youtube ID: T28Av5QZtUc, correspoding music/choreography sequence 1:10 to 1:20.\
-K-Pop Choreography 4 (k_ch4): Youtube ID: DMOaEdw4KJM&t, correspoding music/choreography sequence 0:15 to 0:27.\
+K-Pop Choreography 4 (k_ch4): Youtube ID: DMOaEdw4KJM&t, correspoding music/choreography sequence 0:15 to 0:27.
 
 Ballet Choreography 0 (b_ch0): Youtube ID: ZLxIM2OpCdc, correspoding music/choreography sequence starts from 1:50 to 2:05. \
 Ballet Choreography 1 (b_ch1): Bilibili ID: BV1fN411f71F, correspoding music/choreography sequence starts from 1:10 to 1:25.\
 Ballet Choreography 2 (b_ch2): Bilibili ID: BV1fN411f71F, correspoding music/choreography sequence starts from 0:55 to 1:10.\
 Ballet Choreography 3 (b_ch3): Youtube ID: WYF-D6nsHyQ, starts from 1:07 to 1:25.  \
-Ballet Choreography 4 (b_ch4): Youtube ID: WYF-D6nsHyQ, starts from 0:33 to 0:58.  \
+Ballet Choreography 4 (b_ch4): Youtube ID: WYF-D6nsHyQ, starts from 0:33 to 0:58.  
 
 
 Jazz Choreography 1 (j_ch1): Bilibili ID: BV1XR4y1w7qT, correspoding music/choreography sequence starts from 0:00 to 0:20.\
 Jazz Choreography 2 (j_ch2): Bilibili ID: BV1DD4y1v7ag, correspoding music/choreography sequence starts from 0:10 to 0:28.\
-Jazz Choreography 3 (j_ch3): Bilibili ID: BV1tW4y1t75U, correspoding music/choreography sequence starts from 0:00 to 0:20.\
+Jazz Choreography 3 (j_ch3): Bilibili ID: BV1jv4y1z7Lt - <<change>>, correspoding music/choreography sequence starts from 0:00 to 0:16.\
 
 Hip-Hop Choreography 0 (h_ch0):\
-Hip-Hop Choreography 1 (h_ch1): \
+Hip-Hop Choreography 1 (h_ch1): Bilibili ID: BV1jv4y1z7Lt - <<insomnia>>, correspoding music/choreography sequence starts from 0:00 to 0:18.\
 
-Urban Choreography 0 (u_ch0):\
-Urban Choreography 1 (u_ch1):\
-Urban Choreography 2 (u_ch2):\
-Urban Choreography 3 (u_ch3):
+Urban Choreography 0 (u_ch0): Youtube ID: 96Xd1lzbfLk, correspoding music/choreography sequence starts from 0:40 to 0:55. \ 
+Urban Choreography 1 (u_ch1): Bilibili ID: BV1tW4y1t75U, correspoding music/choreography sequence starts from 0:00 to 0:20.\ freaky deaky
+Urban Choreography 2 (u_ch2): Youtube ID: 1MwNg2pQS6w, correspoding music/choreography sequence starts from 0:05 to 0:20. \ 
+Urban Choreography 3 (u_ch3): Bilibili ID: BV1jv4y1z7Lt - <<Timber>>, correspoding music/choreography sequence starts from 0:00 to 0:20.
 
 ## Dataset Download
 The dance motion can be downloaded here:LINKS\
