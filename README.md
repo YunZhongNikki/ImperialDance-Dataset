@@ -46,15 +46,15 @@ Ballet Choreography 4 (b_ch4): Youtube ID: WYF-D6nsHyQ, starts from 0:33 to 0:58
 Jazz Choreography 0 (j_ch0): Bilibili ID: BV1tW4y1t75U, correspoding music/choreography starts from 0:00 to 0:20.\
 Jazz Choreography 1 (j_ch1): Bilibili ID: BV1XR4y1w7qT, corresponding music/choreography starts from 0:00 to 0:20.\
 Jazz Choreography 2 (j_ch2): Bilibili ID: BV1DD4y1v7ag, corresponding music/choreography starts from 0:10 to 0:28.\
-Jazz Choreography 3 (j_ch3): Bilibili ID: BV1jv4y1z7Lt - &laquochange&raquo, corresponding music/choreography starts from 0:00 to 0:16.
+Jazz Choreography 3 (j_ch3): Bilibili ID: BV1jv4y1z7Lt - 《change》, corresponding music/choreography starts from 0:00 to 0:16.
 
-Hip-Hop Choreography 0 (h_ch0): Bilibili ID: BV1sa411F7JZ - <time goes by>, corresponding music/choreography starts from 0:00 to 0:15.\
+Hip-Hop Choreography 0 (h_ch0): Bilibili ID: BV1sa411F7JZ - 《time goes by》, corresponding music/choreography starts from 0:00 to 0:15.\
 Hip-Hop Choreography 1 (h_ch1): Bilibili ID: BV1L84y1r7tk, corresponding music/choreography starts from 0:00 to 0:17.
 
 Urban Choreography 0 (u_ch0): Youtube ID: 96Xd1lzbfLk, corresponding music/choreography starts from 0:40 to 0:55.\ 
-Urban Choreography 1 (u_ch1): Bilibili ID: BV1jv4y1z7Lt - <insomnia>, corresponding music/choreography sequence starts from 0:00 to 0:18.\
+Urban Choreography 1 (u_ch1): Bilibili ID: BV1jv4y1z7Lt - 《insomnia》, corresponding music/choreography sequence starts from 0:00 to 0:18.\
 Urban Choreography 2 (u_ch2): Youtube ID: 1MwNg2pQS6w, corresponding music/choreography  starts from 0:05 to 0:20.\ 
-Urban Choreography 3 (u_ch3): Bilibili ID: BV1jv4y1z7Lt - <Timber>, corresponding music/choreography starts from 0:00 to 0:20.
+Urban Choreography 3 (u_ch3): Bilibili ID: BV1jv4y1z7Lt - 《Timber》, corresponding music/choreography starts from 0:00 to 0:20.
 
 ## Dataset Download
 The dance motion can be downloaded here:LINKS\
