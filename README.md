@@ -31,15 +31,15 @@ There are a maximum of five choreographies for each dance genre. We use ch0-ch4 
 ### Dance Music
 We provide the Youtube ID or Bilibili ID for each dance music piece belonging to each choreography in the dataset. Dancers from all levels(Expert, Intermediate, and Beginner) have danced to the same choreography 100 repeating times.
 
-K-Pop Choreography 0 (k_ch0): Youtube ID: WhHEQ-W3x5Y, corresponding music/choreography starts from 0:40 to 0:55. \
-K-Pop Choreography 1 (k_ch1): Youtube ID: WhHEQ-W3x5Y, corresponding music/choreography starts from 0:55 to 1:10.\
-K-Pop Choreography 2 (k_ch2): Youtube ID: T28Av5QZtUc, corresponding music/choreography starts from 1:20 to 1:30. \
-K-Pop Choreography 3 (k_ch3): Youtube ID: T28Av5QZtUc, corresponding music/choreography starts from 1:10 to 1:20.\
-K-Pop Choreography 4 (k_ch4): Youtube ID: DMOaEdw4KJM&t, corresponding music/choreography starts from 0:15 to 0:27. 
+K-Pop Choreography 0 (k_ch0): Youtube ID: WhHEQ-W3x5Y, corresponding music/choreography from 0:40 to 0:55. \
+K-Pop Choreography 1 (k_ch1): Youtube ID: WhHEQ-W3x5Y, corresponding music/choreography from 0:55 to 1:10.\
+K-Pop Choreography 2 (k_ch2): Youtube ID: T28Av5QZtUc, corresponding music/choreography from 1:20 to 1:30. \
+K-Pop Choreography 3 (k_ch3): Youtube ID: T28Av5QZtUc, corresponding music/choreography from 1:10 to 1:20.\
+K-Pop Choreography 4 (k_ch4): Youtube ID: DMOaEdw4KJM&t, corresponding music/choreography from 0:15 to 0:27. 
 
-Ballet Choreography 0 (b_ch0): Youtube ID: ZLxIM2OpCdc, corresponding music/choreography starts from 1:50 to 2:05. \
-Ballet Choreography 1 (b_ch1): Bilibili ID: BV1fN411f71F, corresponding music/choreography starts from 1:10 to 1:25.\
-Ballet Choreography 2 (b_ch2): Bilibili ID: BV1fN411f71F, corresponding music/choreography starts from 0:55 to 1:10.\
+Ballet Choreography 0 (b_ch0): Youtube ID: ZLxIM2OpCdc, corresponding music/choreography from 1:50 to 2:05. \
+Ballet Choreography 1 (b_ch1): Bilibili ID: BV1fN411f71F, corresponding music/choreography from 1:10 to 1:25.\
+Ballet Choreography 2 (b_ch2): Bilibili ID: BV1fN411f71F, corresponding music/choreography from 0:55 to 1:10.\
 Ballet Choreography 3 (b_ch3): Youtube ID: WYF-D6nsHyQ, starts from 1:07 to 1:25. \
 Ballet Choreography 4 (b_ch4): Youtube ID: WYF-D6nsHyQ, starts from 0:33 to 0:58.   
 
