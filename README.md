@@ -51,9 +51,9 @@ Jazz Choreography 3 (j_ch3): Bilibili ID: BV1jv4y1z7Lt - 《change》, correspon
 Hip-Hop Choreography 0 (h_ch0): Bilibili ID: BV1sa411F7JZ - 《time goes by》, from 0:00 to 0:15.\
 Hip-Hop Choreography 1 (h_ch1): Bilibili ID: BV1L84y1r7tk, from 0:00 to 0:17.
 
-Urban Choreography 0 (u_ch0): Youtube ID: 96Xd1lzbfLk, corresponding music/choreography from 0:40 to 0:55.\ 
-Urban Choreography 1 (u_ch1): Bilibili ID: BV1jv4y1z7Lt - 《insomnia》,  from 0:00 to 0:18.\
-Urban Choreography 2 (u_ch2): Youtube ID: 1MwNg2pQS6w, from 0:05 to 0:20.\ 
+Urban Choreography 0 (u_ch0): Youtube ID: 96Xd1lzbfLk, corresponding music/choreography from 0:40 to 0:55.\
+Urban Choreography 1 (u_ch1): Bilibili ID: BV1jv4y1z7Lt - 《insomnia》, corresponding music/choreography from 0:00 to 0:18.\
+Urban Choreography 2 (u_ch2): Youtube ID: 1MwNg2pQS6w, corresponding music/choreography from 0:05 to 0:20. \
 Urban Choreography 3 (u_ch3): Bilibili ID: BV1jv4y1z7Lt - 《Timber》, from 0:00 to 0:20.
 
 ## Dataset Download
