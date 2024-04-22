@@ -35,13 +35,13 @@ K-Pop Choreography 0 (k_ch0): Youtube ID: WhHEQ-W3x5Y, corresponding music/chore
 K-Pop Choreography 1 (k_ch1): Youtube ID: WhHEQ-W3x5Y, corresponding music/choreography starts from 0:55 to 1:10.\
 K-Pop Choreography 2 (k_ch2): Youtube ID: T28Av5QZtUc, corresponding music/choreography starts from 1:20 to 1:30. \
 K-Pop Choreography 3 (k_ch3): Youtube ID: T28Av5QZtUc, corresponding music/choreography starts from 1:10 to 1:20.\
-K-Pop Choreography 4 (k_ch4): Youtube ID: DMOaEdw4KJM&t, corresponding music/choreography starts from 0:15 to 0:27.
+K-Pop Choreography 4 (k_ch4): Youtube ID: DMOaEdw4KJM&t, corresponding music/choreography starts from 0:15 to 0:27. 
 
 Ballet Choreography 0 (b_ch0): Youtube ID: ZLxIM2OpCdc, corresponding music/choreography starts from 1:50 to 2:05. \
 Ballet Choreography 1 (b_ch1): Bilibili ID: BV1fN411f71F, corresponding music/choreography starts from 1:10 to 1:25.\
 Ballet Choreography 2 (b_ch2): Bilibili ID: BV1fN411f71F, corresponding music/choreography starts from 0:55 to 1:10.\
 Ballet Choreography 3 (b_ch3): Youtube ID: WYF-D6nsHyQ, starts from 1:07 to 1:25.  \
-Ballet Choreography 4 (b_ch4): Youtube ID: WYF-D6nsHyQ, starts from 0:33 to 0:58.  
+Ballet Choreography 4 (b_ch4): Youtube ID: WYF-D6nsHyQ, starts from 0:33 to 0:58. \  
 
 Jazz Choreography 0 (j_ch0): Bilibili ID: BV1tW4y1t75U, correspoding music/choreography starts from 0:00 to 0:20.\ 
 Jazz Choreography 1 (j_ch1): Bilibili ID: BV1XR4y1w7qT, corresponding music/choreography starts from 0:00 to 0:20.\
