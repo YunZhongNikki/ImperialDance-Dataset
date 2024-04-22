@@ -21,6 +21,10 @@ We collected 69,300 seconds of dance sequences from 5 different dance genres and
 ### Dance Motion
 For the dance motion, the data is collected using OptiTrack motion capture devices, where the motion camera records the coordinates of 21 skeletal body joints in 3D space in each frame at 100fps. All the dance sequences were normalized in 10 seconds. We provide the numpy array of each collected dance sequence, where the format of the array is (100,3,1000,21)  (samples, coordinates,10seconds\*100fps, joints).\
 
+To view the dance skeletons, the index of the 21 body joints are described as below:\
+Skeleton_Name = [RShin, RToe, RThigh, LThigh, LFoot, RShoulder, LHand, RHand, LFArm, LShoulder, RFoot, Neck, LShin, Chest, Head, LToe, Ab, RUArm, LUArm, Hip, RFArm].
+
+
 Each dance sequence is named as format: **dance_level_[expertise_level]\_[genre]\_[choreography]**
 
 For example, a dance sequence that describes the performance of Ballet choreography 0 performed by an Expert is named as dance_level_e_b_ch0.
