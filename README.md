@@ -31,29 +31,29 @@ There are a maximum of five choreographies for each dance genre. We use ch0-ch4 
 ### Dance Music
 We provide the Youtube ID or Bilibili ID for each dance music piece belonging to each choreography in the dataset. Dancers from all levels(Expert, Intermediate, and Beginner) have danced to the same choreography 100 repeating times.
 
-K-Pop Choreography 0 (k_ch0): Youtube ID: WhHEQ-W3x5Y, corresponding music/choreography from 0:40 to 0:55. \
-K-Pop Choreography 1 (k_ch1): Youtube ID: WhHEQ-W3x5Y, corresponding music/choreography from 0:55 to 1:10.\
-K-Pop Choreography 2 (k_ch2): Youtube ID: T28Av5QZtUc, corresponding music/choreography from 1:20 to 1:30. \
-K-Pop Choreography 3 (k_ch3): Youtube ID: T28Av5QZtUc, corresponding music/choreography from 1:10 to 1:20.\
-K-Pop Choreography 4 (k_ch4): Youtube ID: DMOaEdw4KJM&t, corresponding music/choreography from 0:15 to 0:27. 
+K-Pop Choreography 0 (k_ch0): Youtube ID: WhHEQ-W3x5Y, music/choreography from 0:40 to 0:55. \
+K-Pop Choreography 1 (k_ch1): Youtube ID: WhHEQ-W3x5Y, music/choreography from 0:55 to 1:10.\
+K-Pop Choreography 2 (k_ch2): Youtube ID: T28Av5QZtUc, music/choreography from 1:20 to 1:30. \
+K-Pop Choreography 3 (k_ch3): Youtube ID: T28Av5QZtUc, music/choreography from 1:10 to 1:20.\
+K-Pop Choreography 4 (k_ch4): Youtube ID: DMOaEdw4KJM&t, music/choreography from 0:15 to 0:27. 
 
-Ballet Choreography 0 (b_ch0): Youtube ID: ZLxIM2OpCdc, corresponding music/choreography from 1:50 to 2:05. \
-Ballet Choreography 1 (b_ch1): Bilibili ID: BV1fN411f71F, corresponding music/choreography from 1:10 to 1:25.\
-Ballet Choreography 2 (b_ch2): Bilibili ID: BV1fN411f71F, corresponding music/choreography from 0:55 to 1:10.\
+Ballet Choreography 0 (b_ch0): Youtube ID: ZLxIM2OpCdc, music/choreography from 1:50 to 2:05. \
+Ballet Choreography 1 (b_ch1): Bilibili ID: BV1fN411f71F, music/choreography from 1:10 to 1:25.\
+Ballet Choreography 2 (b_ch2): Bilibili ID: BV1fN411f71F, music/choreography from 0:55 to 1:10.\
 Ballet Choreography 3 (b_ch3): Youtube ID: WYF-D6nsHyQ, starts from 1:07 to 1:25. \
 Ballet Choreography 4 (b_ch4): Youtube ID: WYF-D6nsHyQ, starts from 0:33 to 0:58.   
 
-Jazz Choreography 0 (j_ch0): Bilibili ID: BV1tW4y1t75U, correspoding music/choreography from 0:00 to 0:20.\
-Jazz Choreography 1 (j_ch1): Bilibili ID: BV1XR4y1w7qT, corresponding music/choreography from 0:00 to 0:20.\
-Jazz Choreography 2 (j_ch2): Bilibili ID: BV1DD4y1v7ag, corresponding music/choreography from 0:10 to 0:28.\
-Jazz Choreography 3 (j_ch3): Bilibili ID: BV1jv4y1z7Lt - 《change》, corresponding music/choreography from 0:00 to 0:16.
+Jazz Choreography 0 (j_ch0): Bilibili ID: BV1tW4y1t75U, music/choreography from 0:00 to 0:20.\
+Jazz Choreography 1 (j_ch1): Bilibili ID: BV1XR4y1w7qT, music/choreography from 0:00 to 0:20.\
+Jazz Choreography 2 (j_ch2): Bilibili ID: BV1DD4y1v7ag, music/choreography from 0:10 to 0:28.\
+Jazz Choreography 3 (j_ch3): Bilibili ID: BV1jv4y1z7Lt - 《change》, music/choreography from 0:00 to 0:16.
 
 Hip-Hop Choreography 0 (h_ch0): Bilibili ID: BV1sa411F7JZ - 《time goes by》, from 0:00 to 0:15.\
 Hip-Hop Choreography 1 (h_ch1): Bilibili ID: BV1L84y1r7tk, from 0:00 to 0:17.
 
-Urban Choreography 0 (u_ch0): Youtube ID: 96Xd1lzbfLk, corresponding music/choreography from 0:40 to 0:55.\
-Urban Choreography 1 (u_ch1): Bilibili ID: BV1jv4y1z7Lt - 《insomnia》, corresponding music/choreography from 0:00 to 0:18.\
-Urban Choreography 2 (u_ch2): Youtube ID: 1MwNg2pQS6w, corresponding music/choreography from 0:05 to 0:20. \
+Urban Choreography 0 (u_ch0): Youtube ID: 96Xd1lzbfLk, music/choreography from 0:40 to 0:55.\
+Urban Choreography 1 (u_ch1): Bilibili ID: BV1jv4y1z7Lt - 《insomnia》, music/choreography from 0:00 to 0:18.\
+Urban Choreography 2 (u_ch2): Youtube ID: 1MwNg2pQS6w, music/choreography from 0:05 to 0:20. \
 Urban Choreography 3 (u_ch3): Bilibili ID: BV1jv4y1z7Lt - 《Timber》, from 0:00 to 0:20.
 
 ## Dataset Download
