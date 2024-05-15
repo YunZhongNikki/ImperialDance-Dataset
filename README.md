@@ -1,5 +1,6 @@
 # ImperialDance-Dataset
 The official Dataset proposed in "DanceMVP: Self-Supervised Learning for Multi-Task Primitive-Based Dance Performance Assessment via Transformer Text Prompting” [AAAI 2024].
+Paper: [DanceMVP](https://ojs.aaai.org/index.php/AAAI/article/view/28893)
 
 ![p](https://github.com/YunZhongNikki/ImperialDance-Dataset/blob/main/new_frameworkk_large-1.png)
 
